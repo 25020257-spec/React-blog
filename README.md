@@ -32,6 +32,10 @@ SPA-Single Page Application
 ## Kế hoạch
 - Ngày 1: Cài môi trường, component đầu tiên
 - Ngày 2: JSX, nhúng biến bằng {}
+* SX là tiện ích mở rộng cú pháp (syntax extension) cho JavaScript[2].
+* Vai trò **: JSX đóng vai trò cốt lõi tạo nên sự phổ biến rộng rãi của React JS nhờ khả năng cho phép viết trực tiếp mã **HTML ngay bên trong tệp JavaScript**[1][3].
+* Lợi ích **: Tối ưu hóa quá trình phát triển giao diện, không còn cần phải tách rời tệp HTML và tệp JavaScript hay dùng các câu lệnh thao tác DOM rườm rà như `document.getElementById()` trong JavaScript thuần
+
 - Ngày 3: Tách component ra file riêng
 - Ngày 4: Props, component Card
 - Ngày 5: Render có điều kiện
