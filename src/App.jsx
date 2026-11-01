@@ -1,18 +1,10 @@
-import Valorant from './assets/anh.jpg';
-import './App.css';
-function App() {
-  const userName = "NguyenManh";
 
+import './App.css';
+import Intro from './Intro.jsx';
+function App() {
   return (
     <>
-      <h1>{userName}</h1>
-      <img src={Valorant} alt="Valorantt" />
-      <ul>
-        <li>bắn súng</li>
-        <li>giải trí</li>
-        <li>cao độ</li>
-      </ul>
-      <button onClick={() => alert("Đoàng Đoàng")}></button>
+      <Intro />
     </>
   )
 }

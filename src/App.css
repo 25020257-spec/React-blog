@@ -1,9 +1,16 @@
-#root {
-  background-color: aliceblue;
+:root {
+  background-color: bisque;
+  font-size: 35px;
 }
 
-#root button {
-  background-color: aqua;
-  height: 50px;
-  width: 300px;
+h1 {
+  font-size: 60px;
+}
+
+img {
+  height: 500px;
+}
+
+#Infor {
+  display: flex
 }
