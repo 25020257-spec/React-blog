@@ -40,6 +40,8 @@ SPA-Single Page Application
 - Ngày 4: Props, component Card
 - Ngày 5: Render có điều kiện
 - Ngày 6: Render danh sách bằng map, key, filter
+  *Nesty loop : giúp tái sử dụng và quản lí style linh hoạt , dùng khi cấu trúc dữ liệu có dạng phức tạp dạng phân cấp (array lồng array)
+  
 - Ngày 7: Trang danh sách sản phẩm hoàn chỉnh
 
 ## Cách chạy
